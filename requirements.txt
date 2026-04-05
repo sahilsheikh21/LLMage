@@ -1,0 +1,4 @@
+litellm
+resvg-py
+python-dotenv
+rich

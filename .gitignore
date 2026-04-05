@@ -1,0 +1,23 @@
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build and Distribution
+build/
+dist/
+*.egg-info/
+*.spec
+
+# Project specific trash/test outputs
+outputs/
+error.txt
+*.log
+temp/

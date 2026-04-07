@@ -61,6 +61,10 @@ Optimized for 16x16, 32x32, or 64x64 grids.
 No API keys? No problem. Use Ollama locally.
 *   **Command:** `llmage "A minimalist geometric bear" --model ollama/llama3`
 
+### 4. High Performance with Cloud Model
+Lightning fast generation using Cloud (Openai,Anthropic,Gemini,..) Models.
+*   **Prompt:** `"A vibrant green circle with a smaller white circle perfectly centered inside."`
+*   **Command:** `llmage "..." --model groq/llama-3.3-70b-versatile --hd`
 ---
 
 ## ⚙️ The "Pro Tip" for High Resolution

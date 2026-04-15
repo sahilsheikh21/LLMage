@@ -11,6 +11,8 @@ Install LLMage globally to start generating art from your terminal:
 ```bash
 pip install git+https://github.com/sahilsheikh21/LLMage.git
 ```
+Steps:
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=20&duration=3000&pause=1000&color=4AF626&center=true&vCenter=true&width=750&lines=pip+install+git%2Bhttps%3A%2F%2Fgithub.com%2Fsahilsheikh21%2FLLMage.git;llmage;llmage+%22Draw+an+Blue+Circle%22+--model+ollama%2Fllama3" alt="Typing SVG" />
 ---
 

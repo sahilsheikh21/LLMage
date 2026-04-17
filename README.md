@@ -13,16 +13,16 @@ pip install git+https://github.com/sahilsheikh21/LLMage.git
 ```
 Steps:
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=20&duration=3000&pause=1000&color=4AF626&center=true&vCenter=true&width=750&lines=pip+install+git%2Bhttps%3A%2F%2Fgithub.com%2Fsahilsheikh21%2FLLMage.git;llmage;llmage+%22Draw+an+Blue+Circle%22+--model+ollama%2Fllama3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=4AF626&center=true&vCenter=true&width=750&lines=pip+install+git%2Bhttps%3A%2F%2Fgithub.com%2Fsahilsheikh21%2FLLMage.git;llmage;llmage+%22Draw+an+Blue+Circle%22+--model+ollama%2Fllama3" alt="Typing SVG" />
 ---
 
-## ✨ Key Features
-*   🖼️ **Text-to-Vector**: Turn pure text prompts into clean, scalable SVG graphics.
-*   🔄 **Platform Agnostic**: Supports 100+ models via [LiteLLM](https://github.com/BerriAI/litellm) (Gemini, Groq, Ollama, OpenAI, Claude).
-*   🚀 **High-Speed Rendering**: Powered by [resvg-py](https://github.com/m-reid/resvg-py) for instant, high-quality PNG outputs.
-*   🕹️ **Retro Mode**: Generate authentic 8-bit/pixel-art styles with `--pixel`.
-*   💎 **HD Scaling**: Scale images up to any resolution without losing sharpness.
-*   🛠️ **Interactive Config**: Switch providers and manage API keys effortlessly with `llmage config`.
+## Key Features
+*    **Text-to-Vector**: Turn pure text prompts into clean, scalable SVG graphics.
+*    **Platform Agnostic**: Supports 100+ models via [LiteLLM](https://github.com/BerriAI/litellm) (Gemini, Groq, Ollama, OpenAI, Claude).
+*    **High-Speed Rendering**: Powered by [resvg-py](https://github.com/m-reid/resvg-py) for instant, high-quality PNG outputs.
+*    **Retro Mode**: Generate authentic 8-bit/pixel-art styles with `--pixel`.
+*    **HD Scaling**: Scale images up to any resolution without losing sharpness.
+*    **Interactive Config**: Switch providers and manage API keys effortlessly with `llmage config`.
 
 ---
 

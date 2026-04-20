@@ -33,7 +33,7 @@ Steps:
 
 ---
 
-## 🎨 Command Reference
+## Command Reference
 
 | Command / Flag | Description | Example |
 | :--- | :--- | :--- |

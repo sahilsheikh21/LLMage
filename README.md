@@ -66,7 +66,7 @@ No API keys? No problem. Use Ollama locally.
 ### 4. High Performance with Cloud Model
 Lightning fast generation using Cloud (Openai,Anthropic,Gemini,..) Models.
 *   **Prompt:** `"A vibrant green circle with a smaller white circle perfectly centered inside."`
-*   **Command:** `llmage "..." --model groq/llama-3.3-70b-versatile --hd`
+*   **Command:** `llmage "...." --model groq/llama-3.3-70b-versatile --hd`
 ---
 
 ## ⚙️ The "Pro Tip" for High Resolution

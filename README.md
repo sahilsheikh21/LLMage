@@ -2,7 +2,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**LLMage** is a an CLI tool to generate high-quality images (SVG/PNG) from any AI model even text-only LLMs. By treating SVG code as a bridge, it allows models like Llama 3, Claude, or GPT-4o-mini to "draw" intricate vector graphics and render them as professional PNGs.
+**LLMage** is a an CLI tool to generate Basic images (SVG/PNG) from any AI model even text-only LLMs. By treating SVG code as a bridge, it allows models like Llama 3, Claude, or GPT-4o-mini to "draw" intricate vector graphics and render them as professional PNGs.
 
 ---
 
